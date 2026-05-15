@@ -6,8 +6,7 @@ from datetime import datetime
 
 app = Flask(__name__)
 
-API_KEY = "1013b5b38842fe3a243c3ad8d94d6c087bfaec379116a427aa0a5d26008d9a2a"
-
+API_KEY = "YOUR_API_KEY"
 
 def check_url(url):
 
